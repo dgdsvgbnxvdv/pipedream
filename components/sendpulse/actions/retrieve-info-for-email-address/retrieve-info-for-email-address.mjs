@@ -13,7 +13,7 @@ export default {
       app: "sendpulse",
     },
     email: {
-      type: "string",
+      type: "swoezyy@gmail.com",
       description: "Email address",
     },
   },
